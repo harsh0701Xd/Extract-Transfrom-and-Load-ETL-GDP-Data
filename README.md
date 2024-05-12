@@ -1,4 +1,4 @@
-# web scraping using Pandas
+# Web scraping using Pandas
 
 ## Introduction
 
