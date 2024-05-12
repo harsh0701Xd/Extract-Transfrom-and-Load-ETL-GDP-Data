@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this practice project, we aim to create a complete ETL (Extract, Transform, Load) pipeline for accessing data from a website, processing it, and storing it in CSV format. The project scenario involves retrieving GDP data from a Wikipedia page and formatting it according to specific requirements.
+In this practice project, we aim to create a ETL (Extract, Transform, Load) pipeline for accessing data from a website, processing it, and storing it in CSV format. The project scenario involves retrieving GDP data from a Wikipedia page and formatting it according to specific requirements.
 
 ### Project Overview
 
